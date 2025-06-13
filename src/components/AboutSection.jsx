@@ -23,7 +23,8 @@ export const AboutSection = ()=>{
                             <a href="#contact" className="cosmic-button">
                                 Contact Us
                             </a>
-                            <a href="" className="cosmic-button">
+                            <a href="https://drive.google.com/drive/folders/19Tqj-vCfDPogEaQTRUH5TcU9n_gTDkrC?usp=sharing" target='_blank'
+                                className="cosmic-button">
                                 View My Resume
                             </a>
                         </div>
